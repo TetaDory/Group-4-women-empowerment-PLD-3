@@ -4,8 +4,8 @@ import sys
 # Ask user to input name
 print("Enter first name: ")
 first_name = input()
-print("Enter second name: ")
-second_name = input()
+print("Enter Last name: ")
+Last_name = input()
 
 # Ask user to select gender
 def gender_menu_choice():
@@ -41,3 +41,5 @@ elif age > 45:
         print("You are over age")
 
 # Ask user to input email
+print("Enter Email: ")
+Email = input()
