@@ -8,6 +8,7 @@ print("Enter Last name: ")
 last_name = input()
 
 # Ask user to select gender
+
 def gender_menu_choice():
     def print_gender_menu():
         print(30 * "-", "GENDER MENU", 30 * "-")
@@ -33,6 +34,7 @@ def gender_menu_choice():
 print(gender_menu_choice())
 
 # Ask user to input age
+
 print("Enter your age: ")
 age = int(input())
 if age < 18:
