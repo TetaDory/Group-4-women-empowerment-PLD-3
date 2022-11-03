@@ -19,4 +19,7 @@ Project : *Platform to match women and their qualifications to jobs and opportun
     - List of motivational quotes displayed randomly (5)
 - Display main menu:
     - Careers
+        - Information & Communication Technology
+        - Medicine
+        - Agriculture
     - Exit
