@@ -41,3 +41,5 @@ elif age > 45:
         print("You are over age")
 
 # Ask user to input email
+print("Enter Email: ")
+Email = input()
