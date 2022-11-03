@@ -1,2 +1,2 @@
-age = input("enter your name: ")
-print (age)
+age = input("Enter your name: ")
+print(age)
