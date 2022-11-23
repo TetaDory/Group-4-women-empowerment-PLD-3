@@ -25,6 +25,7 @@ Project : *Platform to match women and their qualifications to jobs and opportun
         - Agriculture
         - Business
         - Education
+    - Display the various job opportunities in the career fields mentioned.
     - Exit
 
 ### Usage
