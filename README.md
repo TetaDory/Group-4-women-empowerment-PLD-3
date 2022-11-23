@@ -12,8 +12,8 @@ Project : *Platform to match women and their qualifications to jobs and opportun
     - Age
         - Min: 18 (*Exit if input is <18)
         - Max: 45 (*Exit if input is >45)
-    - Email  
-    - Phone number 1
+    - Email
+        - Check if email is valid
 - Display Greetings/Motivational Quote:
     - List of greetings displayed randomly (5)
     - Mention user's first name as part of the greetings message

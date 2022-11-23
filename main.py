@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Import modules
 import sys
 
@@ -42,6 +43,16 @@ if age < 18:
 elif age > 45:
         print("You are over age")
 
+# Function to check if email is valid
+def email_check(email):
+    if "@" in email:
+        print("Email is valid")
+    else:
+        print("Email is invalid")
+
 # Ask user to input email
 print("Enter email: ")
 email = input()
+
+# Call email_check function
+email_check(email)
