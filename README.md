@@ -23,4 +23,20 @@ Project : *Platform to match women and their qualifications to jobs and opportun
         - Information & Communication Technology
         - Medicine
         - Agriculture
+        - Business
+        - Education
     - Exit
+
+### Usage
+Clone the repository:
+```
+git clone https://github.com/TetaDory/Group-4-women-empowerment-PLD-3.git
+```
+Change directory into cloned repo:
+```
+cd Group-4-women-empowerment-PLD-3
+```
+Run the main file:
+```
+./main.py
+```
