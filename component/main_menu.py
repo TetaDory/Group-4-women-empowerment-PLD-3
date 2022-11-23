@@ -3,7 +3,7 @@
 import sys
 
 # Import components
-from component.career_menu import career_menu_choice
+from .career_menu import career_menu_choice
 
 def main_menu_choice():
     def print_main_menu():

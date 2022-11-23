@@ -22,5 +22,5 @@ def gender_menu_choice():
         elif choice == '2':
             loop = False
         else:
-            input("Wrong menu selection. Enter any key to try again..")
+            input("Wrong menu selection. Enter any key to try again: ")
     return None
