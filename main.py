@@ -25,6 +25,7 @@ if age < 18:
     print("You are under age")
 elif age > 45:
         print("You are over age")
+        sys.exit()
 
 # Function to check if email is valid
 def email_check(email):
